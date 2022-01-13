@@ -1,0 +1,14 @@
+C:\Users\erkan\source\repos\BootcampHızlandırma-C#\Degiskenler\bin\Debug\netcoreapp3.1\Degiskenler.exe
+C:\Users\erkan\source\repos\BootcampHızlandırma-C#\Degiskenler\bin\Debug\netcoreapp3.1\Degiskenler.deps.json
+C:\Users\erkan\source\repos\BootcampHızlandırma-C#\Degiskenler\bin\Debug\netcoreapp3.1\Degiskenler.runtimeconfig.json
+C:\Users\erkan\source\repos\BootcampHızlandırma-C#\Degiskenler\bin\Debug\netcoreapp3.1\Degiskenler.runtimeconfig.dev.json
+C:\Users\erkan\source\repos\BootcampHızlandırma-C#\Degiskenler\bin\Debug\netcoreapp3.1\Degiskenler.dll
+C:\Users\erkan\source\repos\BootcampHızlandırma-C#\Degiskenler\bin\Debug\netcoreapp3.1\Degiskenler.pdb
+C:\Users\erkan\source\repos\BootcampHızlandırma-C#\Degiskenler\obj\Debug\netcoreapp3.1\Degiskenler.csproj.AssemblyReference.cache
+C:\Users\erkan\source\repos\BootcampHızlandırma-C#\Degiskenler\obj\Debug\netcoreapp3.1\Degiskenler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erkan\source\repos\BootcampHızlandırma-C#\Degiskenler\obj\Debug\netcoreapp3.1\Degiskenler.AssemblyInfoInputs.cache
+C:\Users\erkan\source\repos\BootcampHızlandırma-C#\Degiskenler\obj\Debug\netcoreapp3.1\Degiskenler.AssemblyInfo.cs
+C:\Users\erkan\source\repos\BootcampHızlandırma-C#\Degiskenler\obj\Debug\netcoreapp3.1\Degiskenler.csproj.CoreCompileInputs.cache
+C:\Users\erkan\source\repos\BootcampHızlandırma-C#\Degiskenler\obj\Debug\netcoreapp3.1\Degiskenler.dll
+C:\Users\erkan\source\repos\BootcampHızlandırma-C#\Degiskenler\obj\Debug\netcoreapp3.1\Degiskenler.pdb
+C:\Users\erkan\source\repos\BootcampHızlandırma-C#\Degiskenler\obj\Debug\netcoreapp3.1\Degiskenler.genruntimeconfig.cache
