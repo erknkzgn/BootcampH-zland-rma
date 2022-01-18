@@ -1,0 +1,7 @@
+C:\Users\erkan\source\repos\BootcampHızlandırma-C#\Koleksiyonlar-Soru-3\bin\Debug\Koleksiyonlar-Soru-3.exe.config
+C:\Users\erkan\source\repos\BootcampHızlandırma-C#\Koleksiyonlar-Soru-3\bin\Debug\Koleksiyonlar-Soru-3.exe
+C:\Users\erkan\source\repos\BootcampHızlandırma-C#\Koleksiyonlar-Soru-3\bin\Debug\Koleksiyonlar-Soru-3.pdb
+C:\Users\erkan\source\repos\BootcampHızlandırma-C#\Koleksiyonlar-Soru-3\obj\Debug\Koleksiyonlar-Soru-3.csproj.AssemblyReference.cache
+C:\Users\erkan\source\repos\BootcampHızlandırma-C#\Koleksiyonlar-Soru-3\obj\Debug\Koleksiyonlar-Soru-3.csproj.CoreCompileInputs.cache
+C:\Users\erkan\source\repos\BootcampHızlandırma-C#\Koleksiyonlar-Soru-3\obj\Debug\Koleksiyonlar-Soru-3.exe
+C:\Users\erkan\source\repos\BootcampHızlandırma-C#\Koleksiyonlar-Soru-3\obj\Debug\Koleksiyonlar-Soru-3.pdb
