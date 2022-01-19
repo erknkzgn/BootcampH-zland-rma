@@ -1,0 +1,7 @@
+C:\Users\erkan\source\repos\BootcampHızlandırma-C#\Proje1_RehberUygulamasi\obj\Debug\Proje1_RehberUygulamasi.csproj.AssemblyReference.cache
+C:\Users\erkan\source\repos\BootcampHızlandırma-C#\Proje1_RehberUygulamasi\obj\Debug\Proje1_RehberUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\erkan\source\repos\BootcampHızlandırma-C#\Proje1_RehberUygulamasi\bin\Debug\Proje1_RehberUygulamasi.exe.config
+C:\Users\erkan\source\repos\BootcampHızlandırma-C#\Proje1_RehberUygulamasi\bin\Debug\Proje1_RehberUygulamasi.exe
+C:\Users\erkan\source\repos\BootcampHızlandırma-C#\Proje1_RehberUygulamasi\bin\Debug\Proje1_RehberUygulamasi.pdb
+C:\Users\erkan\source\repos\BootcampHızlandırma-C#\Proje1_RehberUygulamasi\obj\Debug\Proje1_RehberUygulamasi.exe
+C:\Users\erkan\source\repos\BootcampHızlandırma-C#\Proje1_RehberUygulamasi\obj\Debug\Proje1_RehberUygulamasi.pdb
